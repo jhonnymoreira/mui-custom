@@ -1,0 +1,9 @@
+{
+  "name": "mui-custom",
+  "version": "0.0.1",
+  "description": "Experimenting with MUI",
+  "main": "index.js",
+  "author": "Jhonny Moreira <me.jhonnymoreira@gmail.com>",
+  "license": "MIT",
+  "private": true
+}
